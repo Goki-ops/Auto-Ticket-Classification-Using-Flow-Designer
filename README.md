@@ -1,1 +1,3 @@
 # Auto-Ticket-Classification-Using-Flow-Designer
+Auto Ticket Classification Using Flow Designer is a project designed to automatically classify support tickets based on their content, category, and priority. When a user submits a ticket, the system analyzes the issue and assigns it to the appropriate category and support team using predefined rules and automated workflows in Flow Designer. This reduces manual work, saves time, improves accuracy, and helps resolve issues faster. The project makes ticket management more efficient and improves the overall user experience.
+Drive link:[https://drive.google.com/drive/folders/1E_LhWtAbq3B3HyYcDRBYYq-Sty8WRRhw?usp=drive_link]
